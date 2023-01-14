@@ -7,4 +7,4 @@ int a = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Да");
 
   else Console.WriteLine("Нет");
-//Не очень коретное решение
+//Не очень коректное решение
